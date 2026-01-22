@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oficjalne warunki i postanowienia dla serwisu Plinko on Rolldorado</title>
-    <link>http://roll-doradoslots.pl/warunki-i-postanowienia/</link>
+    <link>http://localhost:1313/warunki-i-postanowienia/</link>
     <description>Recent content in Oficjalne warunki i postanowienia dla serwisu Plinko on Rolldorado</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://roll-doradoslots.pl/warunki-i-postanowienia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/warunki-i-postanowienia/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
