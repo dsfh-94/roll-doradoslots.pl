@@ -1,0 +1,11 @@
+name = "roll-doradoslots-pl"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=roll-doradoslots.pl"
+HMAC_KEY = "4dc3315b4dce6ed5f5d2c891bea89d8165df0844e3a6a04d9971865852f187ea"
+COOKIE_NAME = "wli"
+PLAY_PATH = "play-now"
+BUTTON_ID = "p195f34da94cbf90aa019c2e1a6d35146"
+GATE_SALT = "b6db7a85d900f15f"
